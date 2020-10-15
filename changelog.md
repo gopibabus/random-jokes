@@ -5,6 +5,7 @@ All notable changes to this project will be documented in this file.
 ### Added
 - Added Changelog file to view changes added for different releases.
 - Added .gitattributes file to ignore files and folders while exporting this package
+- Added Issue template to create issues in Github.
 
 ## [1.3.2] - 10-15-2020
 ### Updated
