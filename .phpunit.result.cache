@@ -1,1 +1,1 @@
-C:37:"PHPUnit\Runner\DefaultTestResultCache":115:{a:2:{s:7:"defects";a:0:{}s:5:"times";a:1:{s:55:"Gopibabu\Jokes\Tests\JokeFactoryTest::returnsRandomJoke";d:0.015;}}}
+C:37:"PHPUnit\Runner\DefaultTestResultCache":182:{a:2:{s:7:"defects";a:1:{s:55:"Gopibabu\Jokes\Tests\JokeFactoryTest::returnsRandomJoke";i:3;}s:5:"times";a:1:{s:55:"Gopibabu\Jokes\Tests\JokeFactoryTest::returnsRandomJoke";d:0.055;}}}
